@@ -1,0 +1,17 @@
+{
+  "name": "schedule-html-generator",
+  "version": "1.0.0",
+  "description": "Uses Node.js to output HTML and CSS for a schedule from a JavaScript data structure.",
+  "author": "Mickey Mullin",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
